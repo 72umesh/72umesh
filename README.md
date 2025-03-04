@@ -6,7 +6,7 @@ A Web Developer
 ---------------
  I'm a passionate frontend developer with a focus on building intuitive and responsive user interfaces. My goal is to create seamless experiences that engage users and solve real-world problems.
 
-* 🧠  I'm learning React
+* 🧠  I'm learning TypeScript
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=72umesh" alt="72umesh" /></a> </p>
 
 ### Skills
