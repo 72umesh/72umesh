@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Passionate about building modern, responsive UI experiences with React, CSS, and JavaScript 
 
-- 🔭 I’m currently working on [WidgetHub](https://72umesh.github.io/WidgetHub/) – a UI Component Explorer
+- 🔭 I’m currently contributing to NamasteDev Interview Practice Platform  on [NamasteDev](https://namastedev.com/practice?search=&sortBy=default&language=All&difficulty_level=All&status=All&companies=All&tags=All&page=1) 
 - 🌱 I’m currently learning **Tailwind**, **TypeScript**
  - 💼 Open to internships / junior React developer roles
 
