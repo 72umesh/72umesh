@@ -13,7 +13,6 @@ I enjoy turning ideas into real, usable projects—whether it’s a small utilit
 - Learning **Tailwind CSS** and **TypeScript** to level up my frontend game.  
 - Open to **internships or junior React developer roles** where I can grow and contribute.
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=72umesh" alt="72umesh" /></a> </p>
 
 ###  Skills & Tools
 
