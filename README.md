@@ -18,16 +18,16 @@ I enjoy turning ideas into real, usable projects—whether it’s a small utilit
 
 ###  Skills & Tools
 <p align="center"> 
-<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />&nbsp;&nbsp;
 
 </p>
 
