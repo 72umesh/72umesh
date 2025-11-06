@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <h3>Web Developer | Frontend Developer | React.js Enthusiast | Open to Work .</h3>
-I craft **modern, responsive, and interactive web experiences** with React, CSS, and JavaScript. 
+I craft modern, responsive, and interactive web experiences with React, CSS, and JavaScript. 
 I enjoy turning ideas into real, usable projects—whether it’s a small utility tool or a full-fledged web app.  
 
 ### 🔭 What I'm up to
@@ -13,8 +13,23 @@ I enjoy turning ideas into real, usable projects—whether it’s a small utilit
 - Learning **Tailwind CSS** and **TypeScript** to level up my frontend game.  
 - Open to **internships or junior React developer roles** where I can grow and contribute.
 
+###
+[![An image of @72umesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/72umesh)](https://holopin.io/@72umesh)
 
 ###  Skills & Tools
+<p align="center"> 
+<img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="35" alt="javascript logo"  />
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+<img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
+
+</p>
 
 
 ### Socials
