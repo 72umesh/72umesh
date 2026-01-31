@@ -29,15 +29,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###  Featured Projects
 
-#### 1. **SwiftFlow** – Bookmark Manager Chrome Extension | [View Chrome Extension](https://umeshpalportfolio.vercel.app/#projects)
+#### 1. **[SwiftFlow](https://umeshpalportfolio.vercel.app/#projects)** – Bookmark Manager Chrome Extension 
 - **Tech**: Vanilla JS (ES6+), Chrome APIs, HTML5/CSS3 (custom variables, Geist/Monrope fonts).
 - **Why it stands out**: Demonstrates product thinking, browser API mastery, performance focus, and privacy-first design.
 
-#### 2. **WidgetHub** – Interactive UI Component Library | [Live Demo](https://72umesh.github.io/WidgetHub/#/) | [GitHub Repo](https://github.com/72umesh/WidgetHub)
+#### 2. **[WidgetHub](https://72umesh.github.io/WidgetHub/#/)** – Interactive UI Component Library 
 - **Tech**: React, SCSS, Framer Motion, React Router.
 - **Impact**: Great for experimenting with animations, state management, and clean component architecture.
 
-#### 3. **Maharaja Restaurant** – Responsive SPA Homepage | [Live Demo](https://72umesh.github.io/Maharaja-Restaurant/) | [GitHub Repo](https://github.com/72umesh/Maharaja-Restaurant)
+#### 3. **[Maharaja Restaurant](https://72umesh.github.io/Maharaja-Restaurant/)** – Responsive SPA Homepage
 - **Tech**: React, Styled Components.  
 - **Focus**: Pixel-perfect UI, animations, and mobile-first design.
 
