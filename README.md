@@ -18,10 +18,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - Strengthening backend fundamentals to grow toward full-stack development.
 -  Deepening skills: **TypeScript**, **Next.js**, **Mongo DB** via side projects. 
 
-
-###
-[![An image of @72umesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/72umesh)](https://holopin.io/@72umesh)
-
 ###  Skills & Tech Stack
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,scss,nodejs,express,mysql,git,github,figma" alt="Tech Stack" height="100"/>
@@ -65,7 +61,7 @@ I'm excited about new opportunities in **Frontend**, **Full-Stack**, **UI**, or 
 Reach out anytime:
 -  Email: umeshpal8141@gmail.com
 -  LinkedIn: [linkedin.com/in/umeshkumarpal](https://www.linkedin.com/in/umeshkumarpal/)
--  X: [@UmeshPal8141](https://x.com/UmeshPal8141)
+-  X: [UmeshPal8141](https://x.com/UmeshPal8141)
 -  Portfolio: [umeshpalportfolio.vercel.app](https://umeshpalportfolio.vercel.app/)
 
 Looking forward to hearing from you! 
